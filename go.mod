@@ -1,4 +1,4 @@
-module github.com/m7shapan/njson
+module github.com/FlamingTree/njson
 
 go 1.14
 
